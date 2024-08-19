@@ -28,3 +28,7 @@ int main() {
 
     return 0;
 }
+
+## Installation
+
+Simply include the `clsString.h` file in your project, and you're ready to use the string manipulation functions provided by the `clsString` class.
