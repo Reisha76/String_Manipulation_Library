@@ -19,10 +19,10 @@ int main() {
     clsString myString("Hello, World!");
 
     myString.upperAllString();
-    cout << myString.getValue() << endl;
+    cout << myString.value << endl;
 
     myString.trim();
-    cout << myString.getValue() << endl;
+    cout << myString.value << endl;
 
     cout << "Word Count: " << myString.countWords() << endl;
 
